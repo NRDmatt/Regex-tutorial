@@ -86,4 +86,4 @@ Look-ahead and Look-behind: Look-ahead and look-behind are special syntax for sp
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This Regex tutorial was created by mathew wyatt please check out my other work at github.com/NRDmatt
